@@ -10,6 +10,6 @@
 const urls = [
 	/*'https://forms.gle/SwnDpSZWKTr6YKho9', */
 	'https://forms.gle/fgFbVsvxq7us5KtP6',
-	'https://forms.gle/ktagvYdxokpwJ8xv8',
-	'https://forms.gle/ymQuj76LCq7ToTsV8',
+	/*'https://forms.gle/ktagvYdxokpwJ8xv8', */
+	/*'https://forms.gle/ymQuj76LCq7ToTsV8', */
 ];
